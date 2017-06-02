@@ -2,4 +2,4 @@ this is test 1
 i made a conflict 
 made some changes from github - this is the correct way
 
-dev branch has new stuff here
+changes from master branch
