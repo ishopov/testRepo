@@ -3,3 +3,5 @@ i made a conflict
 made some changes from github - this is the correct way
 
 changes from master branch
+dev branch made more new stuff here
+
